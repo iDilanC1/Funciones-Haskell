@@ -1,3 +1,3 @@
-# Funciones-Haskell
+# Funciones de Haskell
 
-Recopilado de funciones vistas en computación II
+**Recopilado de funciones vistas en computación II**
